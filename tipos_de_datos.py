@@ -15,9 +15,9 @@ Python tiene varios tipos de datos estándar:
 
 from decimal import Decimal
 
-x = int(7)
+x = int(17)
 y = float(3.4)
-z = Decimal("6.9")
+z = Decimal("6.19")
 j = 1j  # El sufijo "j" procede de la ingeniería eléctrica, donde la variable "i" suele utilizarse para la corriente.
 # El razonamiento se encuentra aqui: https://stackoverflow.com/questions/24812444/why-are-complex-numbers-in-python-denoted-with-j-instead-of-i
 
