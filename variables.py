@@ -8,7 +8,7 @@ posteriormente a lo largo de la programación. No necesitas declarar el tipo de 
 dinámicamente del valor que se le asigna.
 
 """
-x = 5
+x = 8
 name = "John"
 
 print(f"Variable: {x}, Tipo de Variable {type(x)}")
