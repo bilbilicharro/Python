@@ -9,7 +9,7 @@ dinámicamente del valor que se le asigna.
 
 """
 x = 8
-name = "John"
+name = "Antonio"
 
 print(f"Variable: {x}, Tipo de Variable {type(x)}")
 print(f"Variable: {name}, Tipo de Variable {type(name)}")
